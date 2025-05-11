@@ -12,7 +12,7 @@ Minishell is a simplified Unix-like command-line interpreter written in C. It re
 - [Built-in Commands](#built-in-commands)
 - [Parsing](#parsing)
 - [Execution](#execution)
-- [Contributors](#contributing)
+- [Contributors](#contributors)
 
 ## Features
 
